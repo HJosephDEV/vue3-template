@@ -1,8 +1,5 @@
 <template>
-  <main>
-    Home
-  </main>
+  <main>Home</main>
 </template>
 
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
